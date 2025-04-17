@@ -1,6 +1,6 @@
-const b = 5
+const b = 2
 console.log("are changes being tracked")
 
 function add(){
-    return b+3
+    return b+9
 }
